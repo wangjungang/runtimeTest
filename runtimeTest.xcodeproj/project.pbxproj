@@ -13,6 +13,22 @@
 		532473B22110BE5100E615F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 532473B12110BE5100E615F5 /* Assets.xcassets */; };
 		532473B52110BE5100E615F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 532473B32110BE5100E615F5 /* LaunchScreen.storyboard */; };
 		532473B82110BE5100E615F5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 532473B72110BE5100E615F5 /* main.m */; };
+		53B6393E211148F900BFB63F /* homeTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6393D211148F900BFB63F /* homeTableView.m */; };
+		53B6396121114F4F00BFB63F /* NSObject+NNAddAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6394221114F4E00BFB63F /* NSObject+NNAddAttribute.m */; };
+		53B6396221114F4F00BFB63F /* NSObject+NNKeyValues.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6394321114F4E00BFB63F /* NSObject+NNKeyValues.m */; };
+		53B6396321114F4F00BFB63F /* NNFourthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6394921114F4E00BFB63F /* NNFourthViewController.m */; };
+		53B6396421114F4F00BFB63F /* NNSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6394A21114F4E00BFB63F /* NNSecondViewController.m */; };
+		53B6396521114F4F00BFB63F /* NNSeventhViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6394B21114F4E00BFB63F /* NNSeventhViewController.m */; };
+		53B6396621114F4F00BFB63F /* NNFifthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6394E21114F4E00BFB63F /* NNFifthViewController.m */; };
+		53B6396721114F4F00BFB63F /* NNEighthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6394F21114F4E00BFB63F /* NNEighthViewController.m */; };
+		53B6396821114F4F00BFB63F /* NNSixthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6395121114F4E00BFB63F /* NNSixthViewController.m */; };
+		53B6396921114F4F00BFB63F /* NNFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6395221114F4E00BFB63F /* NNFirstViewController.m */; };
+		53B6396A21114F4F00BFB63F /* NNThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6395421114F4E00BFB63F /* NNThirdViewController.m */; };
+		53B6396B21114F4F00BFB63F /* NNBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6395521114F4E00BFB63F /* NNBaseViewController.m */; };
+		53B6396C21114F4F00BFB63F /* NNPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6395B21114F4F00BFB63F /* NNPerson.m */; };
+		53B6396D21114F4F00BFB63F /* NNLibrary.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6395C21114F4F00BFB63F /* NNLibrary.m */; };
+		53B6396E21114F4F00BFB63F /* NNCoding.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6395D21114F4F00BFB63F /* NNCoding.m */; };
+		53B6396F21114F4F00BFB63F /* NNCountButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 53B6396021114F4F00BFB63F /* NNCountButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +42,38 @@
 		532473B42110BE5100E615F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		532473B62110BE5100E615F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		532473B72110BE5100E615F5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		53B6393C211148F900BFB63F /* homeTableView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = homeTableView.h; sourceTree = "<group>"; };
+		53B6393D211148F900BFB63F /* homeTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = homeTableView.m; sourceTree = "<group>"; };
+		53B6394021114F4E00BFB63F /* NSObject+NNAddAttribute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+NNAddAttribute.h"; sourceTree = "<group>"; };
+		53B6394121114F4E00BFB63F /* NSObject+NNKeyValues.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+NNKeyValues.h"; sourceTree = "<group>"; };
+		53B6394221114F4E00BFB63F /* NSObject+NNAddAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+NNAddAttribute.m"; sourceTree = "<group>"; };
+		53B6394321114F4E00BFB63F /* NSObject+NNKeyValues.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+NNKeyValues.m"; sourceTree = "<group>"; };
+		53B6394521114F4E00BFB63F /* NNEighthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNEighthViewController.h; sourceTree = "<group>"; };
+		53B6394621114F4E00BFB63F /* NNFifthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNFifthViewController.h; sourceTree = "<group>"; };
+		53B6394721114F4E00BFB63F /* NNFirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNFirstViewController.h; sourceTree = "<group>"; };
+		53B6394821114F4E00BFB63F /* NNSixthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNSixthViewController.h; sourceTree = "<group>"; };
+		53B6394921114F4E00BFB63F /* NNFourthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNFourthViewController.m; sourceTree = "<group>"; };
+		53B6394A21114F4E00BFB63F /* NNSecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNSecondViewController.m; sourceTree = "<group>"; };
+		53B6394B21114F4E00BFB63F /* NNSeventhViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNSeventhViewController.m; sourceTree = "<group>"; };
+		53B6394C21114F4E00BFB63F /* NNBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNBaseViewController.h; sourceTree = "<group>"; };
+		53B6394D21114F4E00BFB63F /* NNThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNThirdViewController.h; sourceTree = "<group>"; };
+		53B6394E21114F4E00BFB63F /* NNFifthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNFifthViewController.m; sourceTree = "<group>"; };
+		53B6394F21114F4E00BFB63F /* NNEighthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNEighthViewController.m; sourceTree = "<group>"; };
+		53B6395021114F4E00BFB63F /* NNFourthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNFourthViewController.h; sourceTree = "<group>"; };
+		53B6395121114F4E00BFB63F /* NNSixthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNSixthViewController.m; sourceTree = "<group>"; };
+		53B6395221114F4E00BFB63F /* NNFirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNFirstViewController.m; sourceTree = "<group>"; };
+		53B6395321114F4E00BFB63F /* NNSecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNSecondViewController.h; sourceTree = "<group>"; };
+		53B6395421114F4E00BFB63F /* NNThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNThirdViewController.m; sourceTree = "<group>"; };
+		53B6395521114F4E00BFB63F /* NNBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNBaseViewController.m; sourceTree = "<group>"; };
+		53B6395621114F4E00BFB63F /* NNSeventhViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNSeventhViewController.h; sourceTree = "<group>"; };
+		53B6395821114F4F00BFB63F /* NNLibrary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNLibrary.h; sourceTree = "<group>"; };
+		53B6395921114F4F00BFB63F /* NNPerson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNPerson.h; sourceTree = "<group>"; };
+		53B6395A21114F4F00BFB63F /* NNCoding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNCoding.h; sourceTree = "<group>"; };
+		53B6395B21114F4F00BFB63F /* NNPerson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNPerson.m; sourceTree = "<group>"; };
+		53B6395C21114F4F00BFB63F /* NNLibrary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNLibrary.m; sourceTree = "<group>"; };
+		53B6395D21114F4F00BFB63F /* NNCoding.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNCoding.m; sourceTree = "<group>"; };
+		53B6395F21114F4F00BFB63F /* NNCountButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNCountButton.h; sourceTree = "<group>"; };
+		53B6396021114F4F00BFB63F /* NNCountButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNCountButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +111,8 @@
 				532473A92110BE5000E615F5 /* AppDelegate.m */,
 				532473AB2110BE5000E615F5 /* ViewController.h */,
 				532473AC2110BE5000E615F5 /* ViewController.m */,
+				53B6393C211148F900BFB63F /* homeTableView.h */,
+				53B6393D211148F900BFB63F /* homeTableView.m */,
 				532473AE2110BE5000E615F5 /* Main.storyboard */,
 				532473B12110BE5100E615F5 /* Assets.xcassets */,
 				532473B32110BE5100E615F5 /* LaunchScreen.storyboard */,
@@ -75,8 +125,70 @@
 		532473BE2110BE5500E615F5 /* runTime */ = {
 			isa = PBXGroup;
 			children = (
+				53B6393F21114F4E00BFB63F /* Category */,
+				53B6394421114F4E00BFB63F /* Controller */,
+				53B6395721114F4F00BFB63F /* Model */,
+				53B6395E21114F4F00BFB63F /* View */,
 			);
 			path = runTime;
+			sourceTree = "<group>";
+		};
+		53B6393F21114F4E00BFB63F /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				53B6394021114F4E00BFB63F /* NSObject+NNAddAttribute.h */,
+				53B6394121114F4E00BFB63F /* NSObject+NNKeyValues.h */,
+				53B6394221114F4E00BFB63F /* NSObject+NNAddAttribute.m */,
+				53B6394321114F4E00BFB63F /* NSObject+NNKeyValues.m */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		53B6394421114F4E00BFB63F /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				53B6394521114F4E00BFB63F /* NNEighthViewController.h */,
+				53B6394621114F4E00BFB63F /* NNFifthViewController.h */,
+				53B6394721114F4E00BFB63F /* NNFirstViewController.h */,
+				53B6394821114F4E00BFB63F /* NNSixthViewController.h */,
+				53B6394921114F4E00BFB63F /* NNFourthViewController.m */,
+				53B6394A21114F4E00BFB63F /* NNSecondViewController.m */,
+				53B6394B21114F4E00BFB63F /* NNSeventhViewController.m */,
+				53B6394C21114F4E00BFB63F /* NNBaseViewController.h */,
+				53B6394D21114F4E00BFB63F /* NNThirdViewController.h */,
+				53B6394E21114F4E00BFB63F /* NNFifthViewController.m */,
+				53B6394F21114F4E00BFB63F /* NNEighthViewController.m */,
+				53B6395021114F4E00BFB63F /* NNFourthViewController.h */,
+				53B6395121114F4E00BFB63F /* NNSixthViewController.m */,
+				53B6395221114F4E00BFB63F /* NNFirstViewController.m */,
+				53B6395321114F4E00BFB63F /* NNSecondViewController.h */,
+				53B6395421114F4E00BFB63F /* NNThirdViewController.m */,
+				53B6395521114F4E00BFB63F /* NNBaseViewController.m */,
+				53B6395621114F4E00BFB63F /* NNSeventhViewController.h */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		53B6395721114F4F00BFB63F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				53B6395821114F4F00BFB63F /* NNLibrary.h */,
+				53B6395921114F4F00BFB63F /* NNPerson.h */,
+				53B6395A21114F4F00BFB63F /* NNCoding.h */,
+				53B6395B21114F4F00BFB63F /* NNPerson.m */,
+				53B6395C21114F4F00BFB63F /* NNLibrary.m */,
+				53B6395D21114F4F00BFB63F /* NNCoding.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		53B6395E21114F4F00BFB63F /* View */ = {
+			isa = PBXGroup;
+			children = (
+				53B6395F21114F4F00BFB63F /* NNCountButton.h */,
+				53B6396021114F4F00BFB63F /* NNCountButton.m */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -149,9 +261,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53B6396A21114F4F00BFB63F /* NNThirdViewController.m in Sources */,
+				53B6396521114F4F00BFB63F /* NNSeventhViewController.m in Sources */,
 				532473AD2110BE5000E615F5 /* ViewController.m in Sources */,
+				53B6396D21114F4F00BFB63F /* NNLibrary.m in Sources */,
+				53B6396621114F4F00BFB63F /* NNFifthViewController.m in Sources */,
 				532473B82110BE5100E615F5 /* main.m in Sources */,
+				53B6396421114F4F00BFB63F /* NNSecondViewController.m in Sources */,
+				53B6396E21114F4F00BFB63F /* NNCoding.m in Sources */,
+				53B6396821114F4F00BFB63F /* NNSixthViewController.m in Sources */,
+				53B6396121114F4F00BFB63F /* NSObject+NNAddAttribute.m in Sources */,
+				53B6396C21114F4F00BFB63F /* NNPerson.m in Sources */,
+				53B6396721114F4F00BFB63F /* NNEighthViewController.m in Sources */,
+				53B6396221114F4F00BFB63F /* NSObject+NNKeyValues.m in Sources */,
+				53B6393E211148F900BFB63F /* homeTableView.m in Sources */,
+				53B6396B21114F4F00BFB63F /* NNBaseViewController.m in Sources */,
 				532473AA2110BE5000E615F5 /* AppDelegate.m in Sources */,
+				53B6396F21114F4F00BFB63F /* NNCountButton.m in Sources */,
+				53B6396921114F4F00BFB63F /* NNFirstViewController.m in Sources */,
+				53B6396321114F4F00BFB63F /* NNFourthViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
